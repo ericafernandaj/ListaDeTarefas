@@ -53,3 +53,4 @@ O arquivo `main.js` é responsável por renderizar o componente `App` na página
 
    ```sh
    npm install
+ 
