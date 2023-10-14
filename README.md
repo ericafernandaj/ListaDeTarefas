@@ -1,6 +1,6 @@
-# Aplicação de Lista de Tarefas
+# Projeto Individual Modulo5 - Lista de Tarefas
 
-Este é um aplicativo de lista de tarefas simples desenvolvido em React. Permite que você crie, edite, complete e exclua tarefas. Além disso, você pode pesquisar por tarefas específicas.
+Este é um aplicativo simples de lista de tarefas desenvolvido com React. Você pode criar, editar, concluir e excluir tarefas. Você também pode pesquisar tarefas específicas.
 
 ## Componente App
 
